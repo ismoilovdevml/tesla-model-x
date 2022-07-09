@@ -1,16 +1,39 @@
-# model_x
+# Tesla Model X
 
-A new Flutter project.
+# Tesla Model X Flutter project
 
-## Getting Started
+Flutter Pro animation project
+Bu flutter project Tesla Model X moslab chiqarilgan
+Android va iOS dastur loyiha UI dan iborat Backend yozilmagan
+Tesla API bilan Backend yozsangizlar bo'ladi
+Hozirda UI to'liq emas user-page bitmagan
 
-This project is a starting point for a Flutter application.
+## Loyihani yangilash
 
-A few resources to get you started if this is your first Flutter project:
+Kodni yuklab oling pub get qilib loyihani yangilab oling.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+```
+## Ishga tushirish
+Anroid yoki iOS emulatorni ishga tushiring
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
+```
+## Apk qilish
+Bu flutter loyinani androidga .apk formatiga keltiramizz
+
+```bash
+flutter build apk --split-per-abi
+```
+# Ismoilovdev
+
+
+
+
+
+
+
+
+
