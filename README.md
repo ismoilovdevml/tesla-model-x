@@ -29,8 +29,13 @@ flutter build apk --split-per-abi
 ```
 # Tesla Model X UI Design <br>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UzTp0oza8-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<object width="425" height="350">
+  <param name="movie" value="http://https://youtu.be/UzTp0oza8-Y" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://https://youtu.be/UzTp0oza8-Y"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 
 
