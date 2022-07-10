@@ -6,7 +6,7 @@ Flutter Pro animation project
 Bu flutter project Tesla Model X moslab chiqarilgan
 Android va iOS dastur loyiha UI dan iborat Backend yozilmagan
 Tesla API bilan Backend yozsangizlar bo'ladi
-Hozirda UI to'liq emas user-page bitmagan
+Hozirda UI to'liq emas user-page bitmagan va faqat night mode bor light mode emdi yoziladi
 
 ## Loyihani yangilash
 
