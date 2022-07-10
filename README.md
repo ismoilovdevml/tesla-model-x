@@ -29,14 +29,7 @@ flutter build apk --split-per-abi
 ```
 # Tesla Model X UI Design <br>
 
-<object width="425" height="350">
-  <param name="movie" value="http://https://youtu.be/UzTp0oza8-Y" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://https://youtu.be/UzTp0oza8-Y"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
+[![Tesla Model X UI Design](https://img.youtube.com/vi/UzTp0oza8-Y/0.jpg)](https://www.youtube.com/watch?v=UzTp0oza8-Y)
 
 
 
