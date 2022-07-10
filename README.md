@@ -11,6 +11,10 @@ Hozirda UI to'liq emas user-page bitmagan
 ## Loyihani yangilash
 
 Kodni yuklab oling pub get qilib loyihani yangilab oling.
+```bash
+git clone https://github.com/ismoilovdevml/tesla-model-x.git
+```
+Kodni Yangilang
 
 ```bash
 flutter pub get
@@ -22,7 +26,7 @@ Anroid yoki iOS emulatorni ishga tushiring
 flutter run
 ```
 ## Apk qilish
-Bu flutter loyinani androidga .apk formatiga keltiramizz
+Bu flutter loyinani androidga .apk formatiga keltiramiz
 
 ```bash
 flutter build apk --split-per-abi
