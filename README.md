@@ -27,7 +27,8 @@ Bu flutter loyinani androidga .apk formatiga keltiramizz
 ```bash
 flutter build apk --split-per-abi
 ```
-# Ismoilovdev
+# Tesla Model X UI Design <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UzTp0oza8-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
